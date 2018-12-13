@@ -13,9 +13,6 @@ public class Test {
     private static Logger logger = LoggerFactory.getLogger(Test.class);
 
     public static void main(String[] args) {
-        logger.info("测试日志 info");
-        logger.error("测试日志 error");
-        logger.warn("测试日志 warn");
-
+        logger.info("测试日志 提交到github上");
     }
 }
